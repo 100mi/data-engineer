@@ -1,3 +1,8 @@
+# data folder 
+content/**/data/**
+content/**/data/**/
+!content/**/data/**.gitkeep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
